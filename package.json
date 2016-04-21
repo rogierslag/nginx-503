@@ -1,0 +1,14 @@
+{
+  "name": "nginx-503",
+  "version": "1.0.0",
+  "description": "Send a 503 to nginx asap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rogier Slag",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
